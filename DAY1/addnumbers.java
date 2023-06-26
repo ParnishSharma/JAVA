@@ -1,4 +1,4 @@
-public class hw2 {
+public class addnumbers {
     public static void main(String [] args){
         int num1=5;
         int num2=4;
