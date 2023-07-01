@@ -1,0 +1,10 @@
+compile and execution are two steps
+
+JDK has JRE component javaruntime environmant and it has JVM java virtual machine and they are stored levelwise;
+the source code goes into compiler and compiler is in JDK and the SC is converted in byte code and its extension is .class.
+and that code can be run on any device we cannot do this thing with c /c++ hence java is the portable langiage .
+
+stage 2
+execution:
+
+the byte code goes via JVM and convert into native code the code that can be undestood by machine.
