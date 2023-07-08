@@ -1,4 +1,4 @@
-package Day6Strings;
+package DAY6Strings;
 
 public class string1 {
     public static void main(String args[]) {
