@@ -5,10 +5,13 @@ public class fibonaccisiries {
     public static void printfib(int x, int y, int n) {
         if (n == 0) {
             return;
+
         }
         int z = x + y;
         System.out.print(z + " ");
         printfib(y, z, n - 1);
+        System.out.println(y);
+
     }
 
     public static void main(String args[]) {
