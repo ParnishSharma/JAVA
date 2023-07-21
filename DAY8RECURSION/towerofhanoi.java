@@ -26,3 +26,5 @@ public class towerofhanoi {
         hanoi(n - 1, helper, source, destination);
     }
 }
+
+// time compelexity is 2^n
