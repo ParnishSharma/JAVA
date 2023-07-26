@@ -15,7 +15,7 @@ public class QuickSort {
                 // If current element is smaller than the pivot,
                 // swap the elements at 'i+1' and 'j'
                 i++;
-                int temp = arr[i];
+                int temp = arr[i]; // { 6, 2, 1, 5, 7, 8, 17 };
                 arr[i] = arr[j];
                 arr[j] = temp;
             }
@@ -43,7 +43,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 6, 2, 1, 5, 7, 8, 17 };
+        int arr[] = { 6, 2, 1, 5, 7, 8, 17 }; // total 8 elements 0 to 7 indexes
         int n = arr.length;
 
         // Sort the array using QuickSort
