@@ -30,4 +30,4 @@ public class Polymorphism {
 
     }
 }
-
+//for diff function there should be diffrent wrgument type or number of argumantes etc
